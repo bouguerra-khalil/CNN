@@ -1,6 +1,6 @@
 
 <h1 style="text-align:center">Implementing Convolutional Neural Networks in tensorflow and keras</h1>
-
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/CNN.png">
 
 
 
